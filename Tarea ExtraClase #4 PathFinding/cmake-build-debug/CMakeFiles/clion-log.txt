@@ -1,0 +1,4 @@
+/home/kev/Escritorio/clion-2019.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/kev/Descargas/Tarea ExtraClase #4 PathFinding"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kev/Descargas/Tarea ExtraClase #4 PathFinding/cmake-build-debug
